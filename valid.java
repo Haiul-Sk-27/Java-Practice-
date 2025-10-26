@@ -1,3 +1,5 @@
+//given a string containg just the charcters "(",")" ,"{","}",[amd]" determie if the input repating charcter
+
 import java.util.Stack;
 
 public class valid {
