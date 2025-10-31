@@ -1,2 +1,3 @@
 #ignore complied class file
-.class
+*.class
+.vscode
